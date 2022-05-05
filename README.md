@@ -1,6 +1,8 @@
 # EXADS Frontend Test Project
-Hello there!
-This is my try at the test :) 
+
+This project is intended to be used as a base for the EXADS Frontend Test. It includes:
+- Empty Angular 8 app with required dependencies for Angular Material and Ngx Datatable already set up.
+- API to support the frontend app.
 
 
 ## Getting started
