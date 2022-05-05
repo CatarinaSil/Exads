@@ -1,6 +1,6 @@
 # EXADS Frontend Test Project
 
-This is my try at the teste :)
+This is my try at the test :)
 
 
 ## Getting started
